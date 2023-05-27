@@ -1,4 +1,6 @@
-# SFML-Physics-Engine
+# SFML Physics Engine
+
+**OLD SOURCES ARE FOUND UNDER RELEASES**
 
 Completely experimental 2D physics engine. It will be reference for future experiments, hopefully working to speed up development.
 
